@@ -34,6 +34,6 @@ public class MainController {
         "Employee name: " + employeeList.get(Integer.valueOf(empNo)).getName()
             + "<br><br>Employee salary: RM" + employeeList.get(Integer.valueOf(empNo)).getSalary()
             + "<br><br>Timestamp: " + formatter.format(date)
-    + "<br><br>Database url: " + dataSource);
+    + "<br><br>Database url is : " + dataSource);
   }
 }
