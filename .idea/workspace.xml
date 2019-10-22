@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f74d181-b146-47c1-bb8d-c246993f97c6" name="Default Changelist" comment="" />
+    <list default="true" id="9f74d181-b146-47c1-bb8d-c246993f97c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/frank/com/frank/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/frank/com/frank/controller/MainController.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +43,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="604" />
+          <entry key="java" value="607" />
           <entry key="properties" value="55" />
           <entry key="ttt" value="1" />
           <entry key="xml" value="2" />
@@ -49,7 +51,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="604" />
+          <entry key="JAVA" value="607" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="55" />
           <entry key="XML" value="2" />
@@ -72,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/frank/com/frank/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="283">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -280,7 +282,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571779646219" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571779996831" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -350,12 +352,12 @@
       <workItem from="1568154106674" duration="2207000" />
       <workItem from="1568318140456" duration="561000" />
       <workItem from="1568458892251" duration="1830000" />
-      <workItem from="1571772783159" duration="4724000" />
+      <workItem from="1571772783159" duration="5074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12223000" />
+    <option name="totallyTimeSpent" value="12573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -469,7 +471,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/frank/com/frank/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
